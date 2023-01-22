@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Afriyie
 - 👀 I’m interested in data science projects
-- 🌱 I’m currently learning python and UNIX
-- 💞️ I’m looking to collaborate on projects involving using R and Perl for data analysis
+- 🌱 Python and R enthusiast
+- 💞️ I’m looking to collaborate on projects involving using R, Perl and Python for data analysis
 - 📫 How to reach me ea2941@cumc.columbia.edu
 
 <!---
